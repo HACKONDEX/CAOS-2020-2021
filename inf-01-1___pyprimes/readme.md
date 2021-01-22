@@ -15,11 +15,11 @@ Python 3.8.5 (default, Jul 21 2020, 10:48:26)
 [Clang 11.0.3 (clang-1103.0.32.62)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 
->>> import primes
->>> primes.factor_out(100)
+\>\>\> import primes
+\>\>\> primes.factor_out(100)
 [1, 2, 2, 5, 5]
->>> primes.factor_out(17)
+\>\>\> primes.factor_out(17)
 'Prime!'
->>>
+\>\>\>
 
 ***
