@@ -16,8 +16,7 @@ _Реализуйте функцию с прототипом:_
         QuietNaN      = 0x31
     } float_class_t;
 
-    extern float_class_t
-    classify(double \*value_ptr);
+    extern float_class_t classify(double \*value_ptr);
       
     которая классифицирует специальные значения вещественного числа, 
     на которое указывает value_ptr, в соответствии со стандартом IEEE 754.
