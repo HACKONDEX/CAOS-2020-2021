@@ -8,9 +8,9 @@
     extern int *B;
     extern int *R;
 
-extern void summ(); 
-extern void everyday795(int X, int Y);
-      
+    extern void summ(); 
+    extern void everyday795(int X, int Y);      
+
 Первая функция вычисляет значения Ri=Ai+Bi для всех i от 0 до N.
 
 Вторая функция:
